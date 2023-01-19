@@ -1,0 +1,13 @@
+[
+      {
+            "Username": "Mario",
+            "Password": "Pietrunti",
+            "Tags": "[\n  \"cibo\",\n  \"gatti\"\n]",
+            "Followers": "[]",
+            "Followed": "[]",
+            "Post votati": "[]",
+            "Blog": "[\n  1\n]",
+            "Feed": "[]",
+            "Wallet": "{\n  \"owner\": \"Mario\",\n  \"transactions\": [],\n  \"amount\": 0.0\n}"
+      }
+]
